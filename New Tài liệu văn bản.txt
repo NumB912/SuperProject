@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 chao tinh yeu
+=======
+new coding
+>>>>>>> 1c9059f934a582206753fdc4bb36c1e118f207e3
